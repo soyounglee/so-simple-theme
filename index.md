@@ -1,10 +1,7 @@
 ---
 layout: home
-limit: 10
-show_excerpts: true
-entries_layout: list
----
-layout: home2
+layout: post
+layout: example --COMMENT
 limit: 10
 show_excerpts: true
 entries_layout: list
