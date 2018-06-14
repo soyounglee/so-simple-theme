@@ -1,7 +1,7 @@
 ---
 layout: home
-layout: home2
-layout: home3
+layout: posts
+layout: categories
 limit: 10
 show_excerpts: true
 entries_layout: list
