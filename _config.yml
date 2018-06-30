@@ -86,10 +86,10 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
+author: 
+  name: So Young Lee
   picture:
-  email:
+  email: soyounglee1013@gmail.com soyoung.lee@stonybrook.edu
   twitter:
   links:
     - title:
