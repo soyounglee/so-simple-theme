@@ -1,15 +1,15 @@
 # Sample site navigation bar links
 
 - title: About
-  url: /About/
+  url: /about/
 - title: CV
-  url: /CV/
+  url: /cv/
 - title: Research
-  url: /Research/
+  url: /research/
 - title: Teaching
-  url: /Teaching/
+  url: /teaching/
 - title: Resources
-  url: /Resources/
+  url: /resources/
 # - title: Search
 #   url: /search/
 # - title: External Page
