@@ -15,4 +15,4 @@ A place to include any other types of information that you'd like to include abo
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
-<h1><a href="/documents/So_Young_Lee_cv.pdf">{{ My CV }}</a></h1>
+[my cv](/documents/So_Young_Lee_cv.pdf)
