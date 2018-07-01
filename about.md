@@ -7,10 +7,7 @@ entries_layout: list
 
 
 
-
-## About me
-
-Ph.D candidate, Department of Linguistics, Stony Brook University
+A Ph.D candidate, Department of Linguistics, Stony Brook University
 
 
 ## Interests
