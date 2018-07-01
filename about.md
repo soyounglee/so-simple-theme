@@ -6,7 +6,7 @@ entries_layout: list
 ---
 
 
-
+why
 
 ## About me
 
