@@ -4,13 +4,12 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-
 ### Teaching Experience
-Some information about you!
+
 
 ## Teaching Assistant
-* 2018 Spring LIN 346 Language and Meaning, Stony Brook University
-* 2017 Fall   LIN 101 Human Language, Stony Brook University
+* 2018 | Spring |LIN 346 |Language and Meaning, Stony Brook University|
+* 2017 | Fall   |LIN 101 |Human Language, Stony Brook University|
 * 2017 Spring LIN 311 Syntax, Stony Brook University
 * 2016 Fall LIN 101 Human Language, Stony Brook University
 * 2016 Spring LIN 345 Writing System of the World, Stony Brook University
@@ -32,11 +31,3 @@ Some information about you!
 * 2016 October “Korean Writing System”, LIN 345 Writing System of the World, Stony Brook University
 * 2015 March “Korean Politeness”, LIN 347 Pragmatics, Stony Brook University
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
-[my cv](/documents/So_Young_Lee_cv.pdf)
