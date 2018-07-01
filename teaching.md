@@ -19,7 +19,7 @@ Some information about you!
 2013 Spring Literature and Film, Ewha Womans University
 2011 Fall Literature and Film, Ewha Womans University
 2011 Spring The Trend of Foreign Modern Literature, Ewha Womans University
-Instructor
+Instructor  
 2018 Winter LIN 110 The Anatomy of English Words, Stony Brook University
 2017 Summer LIN 542 Sociolinguistics, Stony Brook University
 2016 Summer WAE 194 Advanced Writing Academic English, Stony Brook University
