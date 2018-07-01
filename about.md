@@ -6,7 +6,7 @@ entries_layout: list
 ---
 
 
-why It is not ajklsdfjas;df
+
 
 ## About me
 
