@@ -4,7 +4,7 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-Teaching Experience
+Teaching Experience (2011-present)
 
 
 ## Teaching Assistant
@@ -21,10 +21,10 @@ Teaching Experience
 * 2011 Spring &nbsp;&nbsp;The Trend of Foreign Modern Literature, Ewha Womans University
 
 ## Instructor  
-* 2018 Winter &nbsp;&nbsp;&nbsp;&nbsp;LIN 110 The Anatomy of English Words, Stony Brook University
+* 2018 Winter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIN 110 The Anatomy of English Words, Stony Brook University
 * 2017 Summer &nbsp;&nbsp;LIN 542 Sociolinguistics, Stony Brook University
 * 2016 Summer &nbsp;&nbsp;WAE 194 Advanced Writing Academic English, Stony Brook University
-* 2015 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ESL 192 High Intermediate Writing, Stony Brook University
+* 2015 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ESL 192 High Intermediate Writing, Stony Brook University
 * 2015 Summer &nbsp;&nbsp;LIN 110 The Anatomy of English Words, Stony Brook University
 
 ## Invited lecturer
