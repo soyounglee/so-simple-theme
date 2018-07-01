@@ -9,8 +9,8 @@ entries_layout: list
 
 ## Teaching Assistant
 
-2018 | Spring |LIN 346 |Language and Meaning, Stony Brook University
-2017 | Fall   |LIN 101 |Human Language, Stony Brook University
+* 2018 Spring LIN 346 Language and Meaning, Stony Brook University
+* 2017 Fall &nbsp;&nbsp;   LIN 101 Human Language, Stony Brook University
 * 2017 Spring LIN 311 Syntax, Stony Brook University
 * 2016 Fall LIN 101 Human Language, Stony Brook University
 * 2016 Spring LIN 345 Writing System of the World, Stony Brook University
