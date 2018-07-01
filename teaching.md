@@ -21,7 +21,7 @@ entries_layout: list
 * 2011 Spring The Trend of Foreign Modern Literature, Ewha Womans University
 
 ## Instructor  
-* 2018 Winter LIN 110 The Anatomy of English Words, Stony Brook University
+* 2018 Winter &nbsp;&nbsp;LIN 110 The Anatomy of English Words, Stony Brook University
 * 2017 Summer LIN 542 Sociolinguistics, Stony Brook University
 * 2016 Summer WAE 194 Advanced Writing Academic English, Stony Brook University
 * 2015 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ESL 192 High Intermediate Writing, Stony Brook University
