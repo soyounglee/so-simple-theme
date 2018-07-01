@@ -6,17 +6,19 @@ entries_layout: list
 ---
 
 
-Some information about you!
+## About me
+
+Ph.D candidate, Department of Linguistics, Stony Brook University
 
 ## Interests
 
-### Semantics, Prosody, Computational linguistics, Neurolinguistics, Cognitive psychology
+#### Semantics, Prosody, Computational linguistics, Neurolinguistics, Cognitive psychology
+* Syntax-semantics interface
 * Semantic ambiguity on wh-scope and the scope of quantifiers
 * Prosodic disambiguation on the semantic ambiguity
 * Computational model for handling syntactic attachment ambiguity
 * NPI licensing and intervention effect
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ## Contact me
 
