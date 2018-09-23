@@ -6,10 +6,10 @@ entries_layout: list
 ---
 
 
-My research and linguistic interests operate at the intersection of theoretical linguistics, computer science, and psychology. Broadly speaking, I investigate what factors influence how humans process sentences by using experimental designs and computational modelling techniques.
+My research and linguistic interests operate at the intersection of theoretical linguistics, computer science, and psychology. Broadly speaking, I investigate the factors that influence how humans process sentences by using experimental designs and computational modelling techniques.
 
 ### Semantic ambiguity on wh-scope
-I have been studying the relationship between many different linguistic factors such as syntactic positions, morphological markers, and intonation with regard to wh-scope in Korean (Seoul Korean, Kyeongsang Korean), Mandarin, and Persian.
+I study the relationship between many different linguistic factors such as syntactic positions, morphological markers, and intonation with regard to wh-scope in Korean (Seoul Korean, Kyeongsang Korean), Mandarin, and Persian.
 
 [**Publication**]
 * **Lee, So Young**, Hongchen Wu, Lei Liu, Jiwon Yun. Prosody and wh-scope interpretation in Chinese. The proceeding of 29th North American Conference on Chinese Linguistics. (In Press)
