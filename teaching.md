@@ -7,6 +7,14 @@ entries_layout: list
 Teaching Experience (2011-present)
 
 
+## Instructor  
+* 2018 Winter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIN 110 The Anatomy of English Words, Stony Brook University
+* 2017 Summer &nbsp;&nbsp;LIN 542 Sociolinguistics, Stony Brook University
+* 2016 Summer &nbsp;&nbsp;WAE 194 Advanced Writing Academic English, Stony Brook University
+* 2015 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ESL 192 High Intermediate Writing, Stony Brook University
+* 2015 Summer &nbsp;&nbsp;LIN 110 The Anatomy of English Words, Stony Brook University
+
+
 ## Teaching Assistant
 
 * 2018 Spring &nbsp;&nbsp;LIN 346 Language and Meaning, Stony Brook University
@@ -20,12 +28,6 @@ Teaching Experience (2011-present)
 * 2011 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Literature and Film, Ewha Womans University
 * 2011 Spring &nbsp;&nbsp;The Trend of Foreign Modern Literature, Ewha Womans University
 
-## Instructor  
-* 2018 Winter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIN 110 The Anatomy of English Words, Stony Brook University
-* 2017 Summer &nbsp;&nbsp;LIN 542 Sociolinguistics, Stony Brook University
-* 2016 Summer &nbsp;&nbsp;WAE 194 Advanced Writing Academic English, Stony Brook University
-* 2015 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ESL 192 High Intermediate Writing, Stony Brook University
-* 2015 Summer &nbsp;&nbsp;LIN 110 The Anatomy of English Words, Stony Brook University
 
 ## Invited lecturer
 * 2016 October &nbsp;&nbsp;“Korean Politeness”, LIN 347 Pragmatics, Stony Brook University
