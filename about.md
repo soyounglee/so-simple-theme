@@ -22,7 +22,4 @@ entries_layout: list
 * NPI licensing and intervention effect
 
 
-## Contact me
-
-[soyoung.lee@stonybrook.edu](mailto:soyoung.lee@stonybrook.edu)
 

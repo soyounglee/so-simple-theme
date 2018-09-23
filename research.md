@@ -46,10 +46,10 @@ I have been studying the relationship between many different linguistic factors 
 <br />
 
 ### NPI licensing 
-Publication
+[**Publication**]
 * Yun, Jiwon, **So Young Lee** and John Drury. 2017. Negative polarity illusion in Korean. The proceeding of WAFL 13. (In Press)
 
-Presentation
+[**Presentation**]
 * Mar 2018.&nbsp;&nbsp; **So Young Lee**, Aydogan Yanilmaz, Jiwon Yun, John Drury. The processing of Turkish and Korean NPI licensing and intrusion. 31th Annual CUNY Conference on Human Sentence Processing, University of California, Davis.
 * Jun 2017.&nbsp;&nbsp; **So Young Lee** & Hwichan Oh. NPIs in Korean ditransitives. The 20th Meeting of the International Circle of Korean Linguistics. University of Helsinki, Helsinki, Finland.
 * May 2017.&nbsp;&nbsp; Jiwon Yun, **So Young Lee**, John Drury. Negative Polarity Illusion. The 13th Workshop on Altaic Formal Language, International Christian University, Tokyo, Japan.
