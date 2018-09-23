@@ -8,6 +8,7 @@ Teaching Experience (2011-present)
 
 
 ## Instructor  
+* 2018 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIN 120 Language and Technology, Stony Brook University
 * 2018 Winter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIN 110 The Anatomy of English Words, Stony Brook University
 * 2017 Summer &nbsp;&nbsp;LIN 542 Sociolinguistics, Stony Brook University
 * 2016 Summer &nbsp;&nbsp;WAE 194 Advanced Writing Academic English, Stony Brook University
