@@ -22,7 +22,7 @@ Presentation
 * Mar 2018.&nbsp;&nbsp; **So Young Lee**, Hongchen Wu, Lei Liu, Jiwon Yun. The difference between perception and production of prosodic information in Chinese wh-scope disambiguation. Penn Linguistics Conference 42, University of Pennsylvania.
 * Mar 2018.&nbsp;&nbsp; **So Young Lee**, Hongchen Wu, Lei Liu, Jiwon Yun. Asymmetric prosodic effect on production and perception of Mandarin wh-scope. The 30th North American Conference on Chinese Linguistics, Ohio State University.
 * Nov 2017.&nbsp;&nbsp; **So Young Lee**. Wh-island in wh-in-situ languages. (invited speaker) Brown Bag Talk in Syntax reading group. New York University.
-* Jun 2017 **So Young Lee** & Jiwon Yun. What prevents wh-island effect in Korean. The 20th Meeting of the International Circle of Korean Linguistics. University of Helsinki, Helsinki, Finland.
+* Jun 2017.&nbsp;&nbsp; **So Young Lee** & Jiwon Yun. What prevents wh-island effect in Korean. The 20th Meeting of the International Circle of Korean Linguistics. University of Helsinki, Helsinki, Finland.
 * Jun 2017.&nbsp;&nbsp; **So Young Lee**, Hongchen Wu, Lei Liu, Siyao Peng, Jiwon Yun. Prosodic disambiguation of wh-scope in Chinese. The 25th Annual Meeting of the International Association of Chinese Linguistics, the Research Institute for Linguistics (Hungarian Academy of Sciences) and Eötvös Loránd University, Budapest, Hungary.
 * Jun 2017.&nbsp;&nbsp; **So Young Lee**, Hongchen Wu, Lei Liu, Siyao Peng, Yaobin Liu, Jiwon Yun. Prosody and wh-scope interpretation in Chinese. The 29th North American Conference on Chinese Linguistics, Rutgers, the State University of New Jergey.
 * May 2017.&nbsp;&nbsp; **So Young Lee** & Jiwon Yun. Wh-scrambling and wh-scope in Korean. The 13th Workshop on Altaic Formal Language, International Christian University, Tokyo, Japan.
@@ -51,7 +51,7 @@ Publication
 
 Presentation
 * Mar 2018.&nbsp;&nbsp; **So Young Lee**, Aydogan Yanilmaz, Jiwon Yun, John Drury. The processing of Turkish and Korean NPI licensing and intrusion. 31th Annual CUNY Conference on Human Sentence Processing, University of California, Davis.
-* Jun 2017&nbsp;&nbsp; **So Young Lee** & Hwichan Oh. NPIs in Korean ditransitives. The 20th Meeting of the International Circle of Korean Linguistics. University of Helsinki, Helsinki, Finland.
+* Jun 2017.&nbsp;&nbsp; **So Young Lee** & Hwichan Oh. NPIs in Korean ditransitives. The 20th Meeting of the International Circle of Korean Linguistics. University of Helsinki, Helsinki, Finland.
 * May 2017.&nbsp;&nbsp; Jiwon Yun, **So Young Lee**, John Drury. Negative Polarity Illusion. The 13th Workshop on Altaic Formal Language, International Christian University, Tokyo, Japan.
 * Mar 2017.&nbsp;&nbsp; Jiwon Yun, **So Young Lee**, John Drury. Intrusion Effects on Korean NPI Licensing and the Influence of Prosody. 30th Annual CUNY Conference on Human Sentence Processing, Massachusetts Institute of Technology.
 
