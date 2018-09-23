@@ -7,7 +7,7 @@ entries_layout: list
 
 
 
-** Ph.D candidate, Department of Linguistics, Stony Brook University** <br />
+**Ph.D candidate, Department of Linguistics, Stony Brook University** <br />
 * Awardee of 2018 Arts, Humanities, and Lettered Social Sciences Graduate Fellowship, Stony Brook University 
 * Awardee of 2018 Korean Studies Graduate Scholarship, Center for Korean study at Stony Brook University 
 
