@@ -5,7 +5,7 @@ show_excerpts: true
 entries_layout: list
 ---
 
-contact me 
+Contact me 
 
 ### Office
 S234 Social and Behavioral Sciences Stony Brook, NY 11794-4376
