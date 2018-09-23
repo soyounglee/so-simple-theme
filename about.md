@@ -12,6 +12,8 @@ entries_layout: list
 * Awardee of 2018 Korean Studies Graduate Scholarship, Center for Korean study at Stony Brook University 
 <br />
 <br />
+
+
 ## Interests
 
 #### Semantics, Prosody, Computational linguistics, Neurolinguistics, Cognitive psychology
