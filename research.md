@@ -11,11 +11,11 @@ My research and linguistic interests operate at the intersection of theoretical 
 ### Semantic ambiguity on wh-scope
 I have been studying the relationship between many different linguistic factors such as syntactic positions, morphological markers, and intonation with regard to wh-scope in Korean (Seoul Korean, Kyeongsang Korean), Mandarin, and Persian.
 
-Publication
+[**Publication**]
 * **Lee, So Young**, Hongchen Wu, Lei Liu, Jiwon Yun. Prosody and wh-scope interpretation in Chinese. The proceeding of 29th North American Conference on Chinese Linguistics. (In Press)
 * **Lee, So Young** and Jiwon Yun. 2017. Wh-scrambling and wh-scope in Korean, The proceeding of WAFL 13. (In Press)
 
-Presentation
+[**Presentation**]
 
 * Jun 2018.&nbsp;&nbsp; **So Young Lee**, Lei Liu, Hongchen Wu, Jiwon Yun. Syntax and Prosody Interface of Wh-scope in Mandarin. 9th Speech Prosody conference. Poznań, Poland. 
 * May 2018.&nbsp;&nbsp; **So Young Lee**, Hongchen Wu, Lei Liu, Jiwon Yun. The effect of the surface syntactic positions of wh-phrases on wh-scope. The 26th Annual Meeting of the International Association of Chinese Linguistics, University of Wisconsin Madison.
@@ -31,19 +31,19 @@ Presentation
 * Mar 2017.&nbsp;&nbsp; **So Young Lee** & Jiwon Yun. Wh-scope and the Syntactic Position of Wh-phrases in Korean. Penn Linguistics Conference 41, University of Pennsylvania.
 * Feb 2016.&nbsp;&nbsp; **So Young Lee**. Influence of Intonation, Sentence-final particles, and Surface Syntactic Position of the Wh-phrases on Wh-scope in Kyeongsang Korean. Presented at Brown Bag Talk. Stony Brook University.
 * Jan 2016.&nbsp;&nbsp; **So Young Lee** & Jiwon Yun. Influence of Intonation, Morphology and Syntax on the Semantic Scope of Wh-phrases in Kyeongsang Korean. The 90th LSA Annual Meeting of the Linguistic Society of America, Washington, DC.
-
-
+<br />
+<br />
 
 ### Computational model for handling syntactic attachment ambiguity
 
-Publication
+[**Publication**]
 * **Lee, So Young**. A Minimalist Parsing Account of Attachment Ambiguity in English and Korean. Journal of Cognitive Science. (In Press)
 
-Presentation
+[**Presentation**]
 * Oct 2017.&nbsp;&nbsp; **So Young Lee**. A computational approach to the preference shown in the attachment ambiguity. The 25th Japanese/Korean Linguistics Conference, Workshop3: East Asian Psycholinguistics: Recent Developments. University of Hawaii, Manoa.
 * Oct 2017.&nbsp;&nbsp; **So Young Lee**. A computational approach to the attachment ambiguity. Brown Bag Talk. Stony Brook University.
-
-
+<br />
+<br />
 
 ### NPI licensing 
 Publication
