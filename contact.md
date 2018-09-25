@@ -11,7 +11,8 @@ Contact me
 S234 Social and Behavioral Sciences Stony Brook, NY 11794-4376
 
 ### Email
-[email@domain.com](mailto:email@domain.com)
+[soyoung.lee@stonybrook.edu](mailto:soyoung.lee@stonybrook.edu)
+[soyounglee1013@gmail.com](mailto:soyounglee1013@gmail.com)
 
 
 
