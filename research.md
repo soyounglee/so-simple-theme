@@ -12,8 +12,12 @@ My research and linguistic interests operate at the intersection of theoretical 
 I study the relationship between many different linguistic factors such as syntactic positions, morphological markers, and intonation with regard to wh-scope in Korean (Seoul Korean, Kyeongsang Korean), Mandarin, and Persian.
 
 [**Publication**]
-* **Lee, So Young**, Hongchen Wu, Lei Liu, Jiwon Yun. Prosody and wh-scope interpretation in Chinese. The proceeding of 29th North American Conference on Chinese Linguistics. (In Press)
-* **Lee, So Young** and Jiwon Yun. 2017. Wh-scrambling and wh-scope in Korean, The proceeding of WAFL 13. (In Press)
+* **Lee, So Young** and Jiwon Yun.Influence of Intonation, Morphology, and Syntax on the Semantic Scope of Wh-phrases in Kyeongsang Korean. Language and Information (Accepted)
+* **Lee, So Young**, Hongchen Wu, Lei Liu, Jiwon Yun. Prosody and wh-scope interpretation in Chinese. Proceedings of 29th North American Conference on Chinese Linguistics. (In Press)
+* **Lee, So Young** and Jiwon Yun. 2017. Wh-scrambling and wh-scope in Korean, Proceedings of WAFL 13. (In Press)
+
+
+
 
 [**Presentation**]
 
@@ -47,7 +51,7 @@ I study the relationship between many different linguistic factors such as synta
 
 ### NPI licensing 
 [**Publication**]
-* Yun, Jiwon, **So Young Lee** and John Drury. 2017. Negative polarity illusion in Korean. The proceeding of WAFL 13. (In Press)
+* Yun, Jiwon, **So Young Lee** and John Drury. 2017. Negative polarity illusion in Korean. Proceedings of WAFL 13. (In Press)
 
 [**Presentation**]
 * Mar 2018.&nbsp;&nbsp; **So Young Lee**, Aydogan Yanilmaz, Jiwon Yun, John Drury. The processing of Turkish and Korean NPI licensing and intrusion. 31th Annual CUNY Conference on Human Sentence Processing, University of California, Davis.
