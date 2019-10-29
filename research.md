@@ -12,7 +12,7 @@ My research and linguistic interests operate at the intersection of theoretical 
 I study the relationship between many different linguistic factors such as syntactic positions, morphological markers, and intonation with regard to wh-scope in Korean (Seoul Korean, Kyeongsang Korean), Mandarin, and Persian.
 
 [**Publication**]
-* **Lee, So Young** and Jiwon Yun.Influence of Intonation, Morphology, and Syntax on the Semantic Scope of Wh-phrases in Kyeongsang Korean. Language and Information (Accepted)
+* **Lee, So Young** and Jiwon Yun.Influence of Intonation, Morphology, and Syntax on the Semantic Scope of Wh-phrases in Kyeongsang Korean. Language and Information 22(3), 23-43.
 * **Lee, So Young**, Hongchen Wu, Lei Liu, Jiwon Yun. Prosody and wh-scope interpretation in Chinese. Proceedings of 29th North American Conference on Chinese Linguistics. (In Press)
 * **Lee, So Young** and Jiwon Yun. 2017. Wh-scrambling and wh-scope in Korean, Proceedings of WAFL 13. (In Press)
 
@@ -21,6 +21,14 @@ I study the relationship between many different linguistic factors such as synta
 
 [**Presentation**]
 
+* Jan 2020. &nbsp;&nbsp; **So Young Lee** and Jiwon Yun. When are wh-island effects enhanced? The 94th LSA Annual
+Meeting of the Linguistic Society of America, New Orleans [forthcoming]
+* Oct 2019. &nbsp;&nbsp; **So Young Lee** and Jiwon Yun Another source of wh-island effects. The 27th Japanese/Korean
+Linguistics Conference Sogang University, Korea.
+* Jun 2019. &nbsp;&nbsp; **So Young Lee**. Processing of long-distance dependencies in Korean. 2019 Annual Summer
+Meeting of the Linguistic Society of Korea. Chonnam National University, Korea.
+* Mar 2019. &nbsp;&nbsp; **So Young Lee.** A case study of long-distance dependencies in Korean with wh-scope. 32nd Annual
+CUNY Sentence Processing Conference. University of Colorado, Boulder.
 * Jun 2018.&nbsp;&nbsp; **So Young Lee**, Lei Liu, Hongchen Wu, Jiwon Yun. Syntax and Prosody Interface of Wh-scope in Mandarin. 9th Speech Prosody conference. Poznań, Poland. 
 * May 2018.&nbsp;&nbsp; **So Young Lee**, Hongchen Wu, Lei Liu, Jiwon Yun. The effect of the surface syntactic positions of wh-phrases on wh-scope. The 26th Annual Meeting of the International Association of Chinese Linguistics, University of Wisconsin Madison.
 * Mar 2018.&nbsp;&nbsp; **So Young Lee**, Hongchen Wu, Lei Liu, Jiwon Yun. The difference between perception and production of prosodic information in Chinese wh-scope disambiguation. Penn Linguistics Conference 42, University of Pennsylvania.

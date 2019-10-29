@@ -8,6 +8,8 @@ Teaching Experience (2011-present)
 
 
 ## Instructor  
+* 2019 Summer &nbsp;&nbsp;LIN 572/320 Structures of English, Stony Brook University
+* 2019 Spring &nbsp;&nbsp;LIN 355, Language and Life in Korea, Stony Brook University
 * 2018 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIN 120 Language and Technology, Stony Brook University
 * 2018 Winter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIN 110 The Anatomy of English Words, Stony Brook University
 * 2017 Summer &nbsp;&nbsp;LIN 542 Sociolinguistics, Stony Brook University
@@ -18,6 +20,7 @@ Teaching Experience (2011-present)
 
 ## Teaching Assistant
 
+* 2019 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIN 230 Language of the World, Stony Brook University
 * 2018 Spring &nbsp;&nbsp;LIN 346 Language and Meaning, Stony Brook University
 * 2017 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIN 101 Human Language, Stony Brook University
 * 2017 Spring &nbsp;&nbsp;LIN 311 Syntax, Stony Brook University
