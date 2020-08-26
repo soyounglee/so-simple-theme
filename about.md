@@ -7,15 +7,14 @@ entries_layout: list
 
 
 
-**Ph.D candidate, Department of Linguistics, Stony Brook University**
-* Awardee of 2018 Arts, Humanities, and Lettered Social Sciences Graduate Fellowship, Stony Brook University 
-* Awardee of 2018 Korean Studies Graduate Scholarship, Center for Korean study at Stony Brook University 
+**Assistant Professor, Department of English, Miami University**
+ 
 <br />
 
 
 ## Interests
 
-#### Semantics, Prosody, Computational linguistics, Neurolinguistics, Cognitive psychology
+#### Syntax, Semantics, Prosody, Computational linguistics, Neurolinguistics, Cognitive psychology
 * Syntax-semantics interface
 * Semantic ambiguity on wh-scope and the scope of quantifiers
 * Prosodic disambiguation on the semantic ambiguity

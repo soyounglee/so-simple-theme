@@ -13,8 +13,8 @@ I study the relationship between many different linguistic factors such as synta
 
 [**Publication**]
 * **Lee, So Young** and Jiwon Yun.Influence of Intonation, Morphology, and Syntax on the Semantic Scope of Wh-phrases in Kyeongsang Korean. Language and Information 22(3), 23-43.
-* **Lee, So Young**, Hongchen Wu, Lei Liu, Jiwon Yun. Prosody and wh-scope interpretation in Chinese. Proceedings of 29th North American Conference on Chinese Linguistics. (In Press)
-* **Lee, So Young** and Jiwon Yun. 2017. Wh-scrambling and wh-scope in Korean, Proceedings of WAFL 13. (In Press)
+* **Lee, So Young**, Hongchen Wu, Lei Liu, Jiwon Yun. Prosody and wh-scope interpretation in Chinese. Proceedings of 29th North American Conference on Chinese Linguistics. 
+* **Lee, So Young** and Jiwon Yun. 2017. Wh-scrambling and wh-scope in Korean, Proceedings of WAFL 13. 
 
 
 
@@ -22,7 +22,7 @@ I study the relationship between many different linguistic factors such as synta
 [**Presentation**]
 
 * Jan 2020. &nbsp;&nbsp; **So Young Lee** and Jiwon Yun. When are wh-island effects enhanced? The 94th LSA Annual
-Meeting of the Linguistic Society of America, New Orleans [forthcoming]
+Meeting of the Linguistic Society of America, New Orleans
 * Oct 2019. &nbsp;&nbsp; **So Young Lee** and Jiwon Yun Another source of wh-island effects. The 27th Japanese/Korean
 Linguistics Conference Sogang University, Korea.
 * Jun 2019. &nbsp;&nbsp; **So Young Lee**. Processing of long-distance dependencies in Korean. 2019 Annual Summer
@@ -49,9 +49,11 @@ CUNY Sentence Processing Conference. University of Colorado, Boulder.
 ### Computational model for handling syntactic attachment ambiguity
 
 [**Publication**]
-* **Lee, So Young**. A Minimalist Parsing Account of Attachment Ambiguity in English and Korean. Journal of Cognitive Science. (In Press)
+* **Lee, So Young**. A Minimalist Parsing Account of Attachment Ambiguity in English and Korean. Journal of Cognitive Science 19(3), 291-329. 
 
 [**Presentation**]
+* Feb 2020.&nbsp;&nbsp; **So Young Lee**. A computational approach to the attachment ambiguity. Invited Talk. Miami University.
+* Jan 2019.&nbsp;&nbsp; **So Young Lee**. A computational approach to the attachment ambiguity. Invited Talk. Dartmouth College.
 * Oct 2017.&nbsp;&nbsp; **So Young Lee**. A computational approach to the preference shown in the attachment ambiguity. The 25th Japanese/Korean Linguistics Conference, Workshop3: East Asian Psycholinguistics: Recent Developments. University of Hawaii, Manoa.
 * Oct 2017.&nbsp;&nbsp; **So Young Lee**. A computational approach to the attachment ambiguity. Brown Bag Talk. Stony Brook University.
 <br />
@@ -59,7 +61,7 @@ CUNY Sentence Processing Conference. University of Colorado, Boulder.
 
 ### NPI licensing 
 [**Publication**]
-* Yun, Jiwon, **So Young Lee** and John Drury. 2017. Negative polarity illusion in Korean. Proceedings of WAFL 13. (In Press)
+* Yun, Jiwon, **So Young Lee** and John Drury. 2017. Negative polarity illusion in Korean. Proceedings of WAFL 13. 
 
 [**Presentation**]
 * Mar 2018.&nbsp;&nbsp; **So Young Lee**, Aydogan Yanilmaz, Jiwon Yun, John Drury. The processing of Turkish and Korean NPI licensing and intrusion. 31th Annual CUNY Conference on Human Sentence Processing, University of California, Davis.
@@ -68,3 +70,9 @@ CUNY Sentence Processing Conference. University of Colorado, Boulder.
 * Mar 2017.&nbsp;&nbsp; Jiwon Yun, **So Young Lee**, John Drury. Intrusion Effects on Korean NPI Licensing and the Influence of Prosody. 30th Annual CUNY Conference on Human Sentence Processing, Massachusetts Institute of Technology.
 
 
+### Island effects 
+[**Publication**]
+
+
+[**Presentation**]
+* Sep 2020.&nbsp;&nbsp; **So Young Lee**, Lei Liu, Hongchen Wu. Factive island is not an island in Mandarin. The 32th North American Conference on Chinese Linguistics, University of Connecticut. (forthcoming)
