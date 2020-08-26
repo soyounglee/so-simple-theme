@@ -10,7 +10,7 @@ entries_layout: list
 <br />
 Department of English, Miami University
 <br />
-
+<br />
 
 ## Interests
 
