@@ -7,8 +7,8 @@ entries_layout: list
 
 
 
-**Assistant Professor, Department of English, Miami University**
- 
+**Assistant Professor**
+Department of English, Miami University
 <br />
 
 
