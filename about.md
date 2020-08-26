@@ -6,7 +6,7 @@ entries_layout: list
 ---
 <br />
 
-** Assistant Professor**
+## Assistant Professor
 <br />
 Department of English, Miami University
 <br />
