@@ -9,7 +9,7 @@ Teaching Experience (2011-present)
 
 ## Instructor  
 * 2020 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATH/ENG/GER 219 Introduction to Linguistics, Miami University
-* 2019 Summer &nbsp;&nbsp;LIN 572/320 Structures of English, Stony Brook University
+* 2019 Summer &nbsp;&nbsp;&nbsp;&nbsp;LIN 572/320 Structures of English, Stony Brook University
 * 2019 Spring &nbsp;&nbsp;LIN 355, Language and Life in Korea, Stony Brook University
 * 2018 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIN 120 Language and Technology, Stony Brook University
 * 2018 Winter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIN 110 The Anatomy of English Words, Stony Brook University
