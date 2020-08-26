@@ -4,7 +4,7 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-
+<br />
 
 ## Assistant Professor
 Department of English, Miami University
